@@ -2,7 +2,7 @@
 
 ## Activating virtual environment
 Before working on project, in Git Bash:
-```
+```bash
 .venv/Scripts/activate
 ```
 
@@ -12,6 +12,7 @@ Before working on project, in Git Bash:
 - Firebase NoSQL database
 
 ## File structure
+```bash
 sds-website
 ├───.venv ---------------- virtual environment directory
 ├───app ------------------ python files
@@ -22,3 +23,4 @@ sds-website
 └───templates ------------ html templates
     ├───blocks
     └───components
+```
