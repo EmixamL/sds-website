@@ -6,7 +6,7 @@ Before working on project, in Git Bash:
 .venv/Scripts/activate
 ```
 
-## Tech Stack
+## Tech stack
 - Vue.js frontend framework
 - Flask backend framework
 - Firebase NoSQL database
