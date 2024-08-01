@@ -10,3 +10,15 @@ Before working on project, in Git Bash:
 - Vue.js frontend framework
 - Flask backend framework
 - Firebase NoSQL database
+
+## File structure
+sds-website
+├───.venv ---------------- virtual environment directory
+├───app ------------------ python files
+├───static --------------- static files
+│   ├───css
+│   ├───js
+│   └───media
+└───templates ------------ html templates
+    ├───blocks
+    └───components
