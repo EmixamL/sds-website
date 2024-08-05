@@ -6,6 +6,11 @@ Before working on project, in Git Bash:
 .venv/Scripts/activate
 ```
 
+Load flask app by going into /app, running command:
+```bash
+python -m flask --app main run
+```
+
 ## Tech stack
 - Vue.js frontend framework
 - Flask backend framework
