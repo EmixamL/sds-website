@@ -6,7 +6,7 @@ Before working on project, in Git Bash:
 .venv/Scripts/activate
 ```
 
-Load flask app by going into /app, running command:
+In root dir, load flask app by running command:
 ```bash
 python -m flask --app main run
 ```
@@ -20,7 +20,6 @@ python -m flask --app main run
 ```bash
 sds-website
 ├───.venv ---------------- virtual environment directory
-├───app ------------------ python files
 ├───static --------------- static files
 │   ├───css
 │   ├───js
